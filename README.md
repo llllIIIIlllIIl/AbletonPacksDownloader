@@ -1,6 +1,6 @@
 # AbletonPacksDownloader
 
-AbletonPacksDownloader is a very simple script related on the use of wget helping to download Ableton packs without and Ableton account. 
+AbletonPacksDownloader is a very simple script related on the use of wget helping to download Ableton .alp packs without an Ableton account. 
 
 
 ## Installation
