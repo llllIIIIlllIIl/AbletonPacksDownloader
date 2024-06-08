@@ -151,3 +151,62 @@ https://cdn-downloads.ableton.com/livepacks/partnerinstruments/zenpad-mantra-by-
 https://cdn-downloads.ableton.com/livepacks/partnerinstruments/zenpad-oriental-by-earthmoments/9.1.7/r40625/ZenPadOrientalbyEarthMoments_r40625_v1.0.alp
 https://cdn-downloads.ableton.com/livepacks/partnerinstruments/zenpad-poly-reverse-by-earthmoments/9.5/r40816/ZenPadPolyReversebyEarthMoments_r40816_v1.1.alp
 https://cdn-downloads.ableton.com/livepacks/partnerinstruments/zenpad-waterworx-by-earthmoments/9.1.7/r40629/ZenPadWaterworxbyEarthMoments_r40629_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/spat-multichannel-by-music-unit/12.0/r59940/SPATMultichannelbyMusicUnit_r59940_v1.2.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/spat-stereo-by-music-unit/12.0/r59936/SPATStereobyMusicUnit_r59936_v1.2.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/beat-tools/12.0/r59723/BeatTools_r59723_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/orchestral-mallets/12.0/r58986/OrchestralMallets_r58986_v9.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/orchestral-woodwinds/12.0/r58991/OrchestralWoodwinds_r58991_v9.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/orchestral-brass/12.0/r58979/OrchestralBrass_r58979_v9.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/orchestral-strings/12.0/r59574/OrchestralStrings_r59574_v9.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/latin-percussion/12.0/r59728/LatinPercussion_r59728_v9.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/session-drums-club/12.0/r59727/SessionDrumsClub_r59727_v9.2.alp
+https://cdn-downloads.ableton.com/livepacks/artists &amp; campaigns/apc-step-sequencer-by-mark-egloff/9.0.1/r32873/APCStepSequencerbyMarkEgloff_r32873_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/beatseeker-by-andrew-robertson/9.1.7/r39180/BeatSeekerbyAndrewRobertson_r39180_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/bomblastic/9.1.7/r56108/Bomblastic_r56108_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/brass-quartet-by-spitfire-audio/12.0/r59560/BrassQuartetbySpitfireAudio_r59560_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/build-and-drop/12.0/r59726/BuildandDrop_r59726_v1.2.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/building-max-devices/12.0/r59921/BuildingMaxDevices_r59921_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/cv-tools/12.0/r59665/CVTools_r59665_v1.9.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/chop-and-swing/12.0/r59744/ChopandSwing_r59744_v1.3.alp
+https://cdn-downloads.ableton.com/livepacks/artists &amp; campaigns/classic-synths-by-katsuhiro-chiba/9.1.7/r32873/ClassicSynthsbyKatsuhiroChiba_r32873_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/connection-kit/9.7/r51276/ConnectionKit_r51276_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/convolution-reverb/12.0/r59863/ConvolutionReverb_r59863_v1.6.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/creative-extensions/12.0/r59869/CreativeExtensions_r59869_v1.3.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/drive-and-glow/12.0/r59735/DriveandGlow_r59735_v1.4.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/drone-lab/12.0/r59743/DroneLab_r59743_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/drum-booth/12.0/r59731/DrumBooth_r59731_v2.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/drum-essentials/12.0/r59476/DrumEssentials_r59476_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/electric-keyboards/12.0/r59537/ElectricKeyboards_r59537_v1.3.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/glitch-and-wash/12.0/r59747/GlitchandWash_r59747_v1.2.alp
+https://cdn-downloads.ableton.com/livepacks/partnerinstruments/golden-era-hip-hop-drums-by-sound-oracle/12.0/r59894/GoldenEraHip-HopDrumsbySoundOracle_r59894_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/grand-piano/12.0/r60066/GrandPiano_r60066_v9.3.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/m4l-granulator-ii/11.0/r57382/M4LGranulatorII_r57382_v1.3.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/granulator-iii/12.0/r60176/GranulatorIII_r60176_v1.2.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/gratis-hits-by-max-for-cats/9.1.7/r33796/GratisHitsbyMaxforCats_r33796_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/guitar-and-bass/12.0/r59672/GuitarandBass_r59672_v9.0.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/inspired-by-nature-by-dillon-bastan/12.0/r59871/InspiredbyNaturebyDillonBastan_r59871_v1.5.alp
+https://cdn-downloads.ableton.com/livepacks/artists/instant-haus-by-alexkid/9.0b42/r25156/InstantHausbyAlexkid_r25156_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/artists &amp; campaigns/kapture-by-plastikman-and-liine/9.1/r32873/KapturebyPlastikmanandLiine_r32873_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/artists &amp; campaigns/kasio-by-oli-larkin/9.0.1/r32873/KasiobyOliLarkin_r32873_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/lost-and-found/12.0/r59753/LostandFound_r59753_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/max-7-pitch-and-time-machines/9.1.7/r43196/Max7PitchandTimeMachines_r43196_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/m4l-big-three/9.0.1/r32873/M4LBigThree_r32873_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/max-for-live-essentials/9.5/r40143/MaxforLiveEssentials_r40143_v2.0.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/microtuner/12.0/r59451/Microtuner_r59451_v1.5.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/mood-reel/12.0/r59721/MoodReel_r59721_v1.3.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/performance-pack-by-iftah/12.0/r59831/PerformancePackbyIftah_r59831_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/pitchloop89/12.0/r60088/PitchLoop89_r60088_v1.3.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/probability-pack-by-sonic-faction/11.0/r56023/ProbabilityPackbySonicFaction_r56023_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/punch-and-tilt/12.0/r59734/PunchandTilt_r59734_v1.2.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/samplification/9.1.7/r56196/Samplification_r56196_v9.1.alp
+https://cdn-downloads.ableton.com/livepacks/artists &amp; campaigns/schwarzonator-2-by-henrik-schwarz/9.1.7/r32873/Schwarzonator2byHenrikSchwarz_r32873_v1.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/session-drums-studio/12.0/r59751/SessionDrumsStudio_r59751_v9.1.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/skitter-and-step/12.0/r59745/SkitterandStep_r59745_v1.4.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/sound-objects-lite/9.1.7/r32873/SoundObjectsLite_r32873_v9.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/string-quartet-by-spitfire-audio/12.0/r59561/StringQuartetbySpitfireAudio_r59561_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/M4L/surround-panner/12.0/r59446/SurroundPanner_r59446_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/synth-essentials/12.0/r59829/SynthEssentials_r59829_v1.2.alp
+https://cdn-downloads.ableton.com/livepacks/partnerinstruments/trap-drums-by-sound-oracle/12.0/r60008/TrapDrumsbySoundOracle_r60008_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/upright-piano-by-spitfire-audio/12.0/r59471/UprightPianobySpitfireAudio_r59471_v1.1.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/vinyl-classics/10.0/r48312/VinylClassics_r48312_v9.0.alp
+https://cdn-downloads.ableton.com/livepacks/ableton/voice-box/12.0/r59724/VoiceBox_r59724_v1.2.alp
