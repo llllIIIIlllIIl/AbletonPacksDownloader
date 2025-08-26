@@ -26,7 +26,7 @@ A comprehensive Bash script for downloading Ableton Live packs and software from
 - **Internet connection**
 
 ### Account Requirements
-- Valid Ableton account with purchased packs
+- Valid Ableton account with purchased packs (or you can create manually the file ableton-cdn-urls.txt and paste this content inside https://pastebin.com/mW41XHbr)
 - Firefox browser with cookies.txt extension (for account access)
 
 ## 🚀 Quick Start
